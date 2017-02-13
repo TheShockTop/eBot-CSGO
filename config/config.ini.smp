@@ -43,6 +43,9 @@ MAP[] = "de_train"
 MAP[] = "de_mirage"
 MAP[] = "de_cbble"
 MAP[] = "de_overpass"
+MAP[] = "aim_pistol_csgo"
+MAP[] = "aim_map3g"
+MAP[] = "aim_awp_row"
 
 [WORKSHOP IDs]
 
